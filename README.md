@@ -38,7 +38,7 @@ vnl2024-analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/vnl2024-analysis.git
+git clone https://github.com/Atharva971/vnl2024-analysis.git
 cd vnl2024-analysis
 
 # 2. Install dependencies
