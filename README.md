@@ -158,6 +158,3 @@ Official VNL 2024 statistics exported from the FIVB/VNL statistical platform.
 
 ---
 
-## 👤 Author
-
-Made by [Your Name] · [LinkedIn] · [Portfolio]
